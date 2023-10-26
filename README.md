@@ -28,3 +28,5 @@ Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
    ```bash
    git clone https://github.com/votre-nom-utilisateur/application-restaurant.git
    cd application-restaurant
+
+# Fonctionnalités
