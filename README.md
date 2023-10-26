@@ -1,6 +1,6 @@
-# Nom de votre Projet
+# restAURANT
 
-Une brève description de votre projet.
+Voici une brève présentation de mon projet.
 
 ## Sommaire
 
