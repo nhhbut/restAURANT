@@ -42,3 +42,12 @@ Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
 
 #Exemple 1 : Visualisation de tous les articles du menu
 Pour visualiser tous les articles du menu disponibles, utilisez l'endpoint suivant :
+
+
+```bash 
+GET /items````
+
+
+
+#Exemple 2 : Ajout d'une nouvelle catégorie
+
