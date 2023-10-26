@@ -30,3 +30,10 @@ Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
    cd application-restaurant
 
 # Fonctionnalités
+- Visualiser tous les articles du menu disponibles
+- Visualiser les articles du menu par catégories
+- Ajouter de nouveaux articles au menu
+- Supprimer des articles du menu
+- Visualiser toutes les catégories disponibles
+- Ajouter de nouvelles catégories
+- ...
