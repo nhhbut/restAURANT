@@ -44,10 +44,23 @@ Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
 Pour visualiser tous les articles du menu disponibles, utilisez l'endpoint suivant :
 
 
-```bash 
-GET /items````
-
-
+```
+GET /items
+````
 
 #Exemple 2 : Ajout d'une nouvelle catégorie
+Pour ajouter une nouvelle catégorie, utilisez l'endpoint suivant :
+
+````
+POST /category
+````
+Incluez le nom de la catégorie dans le corps de la requête.
+
+#Exemple 3 : Suppression d'un article du menu
+Pour supprimer un article du menu, utilisez l'endpoint suivant :
+
+```
+DELETE /delitems/:item_id
+```
+Remplacez :item_id par l'ID de l'article que vous souhaitez supprimer.
 
