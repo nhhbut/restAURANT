@@ -8,8 +8,7 @@ Il s'agit d'une application de gestion de restaurant simple, construite avec Exp
 - [Démarrage rapide](#démarrage-rapide)
 - [Fonctionnalités](#fonctionnalités)
 - [Exemples](#exemples)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+
 
 ## Aperçu
 
