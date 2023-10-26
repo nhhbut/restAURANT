@@ -37,3 +37,8 @@ Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
 - Visualiser toutes les catégories disponibles
 - Ajouter de nouvelles catégories
 - ...
+
+# Exemples 
+
+#Exemple 1 : Visualisation de tous les articles du menu
+Pour visualiser tous les articles du menu disponibles, utilisez l'endpoint suivant :
