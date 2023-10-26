@@ -1,32 +1,30 @@
-# restAURANT
+# APPLICATION RESTAURANT
 
-Voici une brève présentation de mon projet.
+Il s'agit d'une application de gestion de restaurant simple, construite avec Express.js et MySQL.
 
-## Sommaire
+## Table des matières
 
 - [Aperçu](#aperçu)
 - [Démarrage rapide](#démarrage-rapide)
 - [Fonctionnalités](#fonctionnalités)
-- [Exemples d'utilisation](#exemples-dutilisation)
+- [Exemples](#exemples)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
 ## Aperçu
 
-Le projet [Nom de votre Projet] est une [description de votre projet]. Il est conçu pour [but principal de votre projet].
+L'**APPLICATION RESTAURANT** est conçue pour gérer le menu et les catégories d'un restaurant. Elle vous permet d'effectuer des opérations telles que la visualisation des articles disponibles, l'ajout de nouvelles catégories et la suppression d'articles du menu.
 
 ## Démarrage rapide
 
-Pour commencer à utiliser [Nom de votre Projet], suivez ces étapes simples.
+Avant de commencer, assurez-vous d'avoir installé les prérequis suivants :
 
-### Prérequis
+- Node.js et npm
 
-Avant de commencer, assurez-vous que vous avez [liste des prérequis, par exemple Node.js, npm, etc.] installé sur votre machine.
+Pour commencer avec l'**APPLICATION RESTAURANT**, suivez ces étapes simples :
 
-### Installation
+1. Clonez le dépôt :
 
-1. Clonez le référentiel :
-
-```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
-cd votre-projet
+   ```bash
+   git clone https://github.com/votre-nom-utilisateur/application-restaurant.git
+   cd application-restaurant
